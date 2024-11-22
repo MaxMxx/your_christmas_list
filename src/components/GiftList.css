@@ -1,0 +1,13 @@
+/* src/components/GiftList.css */
+.gift-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; /* Remplir toute la hauteur du conteneur parent */
+  width: 100%; /* Remplir toute la largeur du conteneur parent */
+  background-color: #f0f0f0;
+  padding: 0; /* Enlever les paddings inutiles */
+  margin: 0; /* Enlever les marges inutiles */
+  overflow: hidden; /* Empêcher le scroll */
+}
